@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Databunch_Ems",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "EMS Russian post shipping module",
+    "authors": [
+    {
+        "name": "DataBunchRussia",
+        "email": "info@databunch.ru"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

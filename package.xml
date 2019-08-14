@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Databunch_Ems</name>
+    <version>0.1.0</version>
+    <stability>stable</stability>
+    <license>OSL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>EMS Russian post shipping module</summary>
+    <description>EMS Russian post shipping module</description>
+    <notes>First release</notes>
+    <authors><author><name>DataBunchRussia</name><user>DataBunchRussia</user><email>info@databunch.ru</email></author></authors>
+    <date>2014-10-22</date>
+    <time>13:09:03</time>
+    <contents><target name="magecommunity"><dir name="Databunch"><dir name="Ems"><dir><dir name="Helper"><file name="Data.php" hash="0e89d1b68e9ce8160cecfdcd1e06979d"/></dir><dir name="Model"><dir name="Api"><file name="Ru.php" hash="0f0cc10c3bf26b16b5a72e538600f657"/></dir><dir name="Carrier"><dir name="Ems"><file name="Ru.php" hash="712b3f8deab22f58fec61576a5c5cf7f"/></dir><file name=".DS_Store" hash="08082f61079d1f83c5a1ae336a283fd6"/></dir><dir name="Ems"><file name="Region.php" hash="f69e4b24e79243df3e1992b7e1264ebe"/></dir><dir name="Resource"><dir name="Ems"><file name="Region.php" hash="af99f0ba52e7f852b66d3402975bdc46"/></dir><file name=".DS_Store" hash="08082f61079d1f83c5a1ae336a283fd6"/></dir><file name=".DS_Store" hash="97b5813d157d50b38fa3323cf45f7bc1"/></dir><dir name="etc"><file name="config.xml" hash="8704d554f452225241d7d0828009c5c5"/><file name="system.xml" hash="3fab7385cf666525361118a09ad70263"/></dir><dir name="sql"><dir name="ems_setup"><file name="install-0.1.0.php" hash="fc5f103eb81c02f4cfc3650e3c614715"/></dir><file name=".DS_Store" hash="1cb10540b1bd5199e1b712a6fc2c6639"/></dir></dir><file name=".DS_Store" hash="88520624416343f24d49c8f19e8e3d07"/></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Databunch_Ems.xml" hash="45cfb66cdb3716c0fd94eacc9bfefe48"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.4.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
