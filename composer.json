@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Databunch_Ems",
+    "name": "openmage-module-fostering\/databunch_ems",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "EMS Russian post shipping module",
     "authors": [
